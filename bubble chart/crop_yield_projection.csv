@@ -1,0 +1,22 @@
+Region,Maize,Soybean,Rice,Wheat,Cassava,Sorghum
+USA,-40,-50,,-35,,-40
+Canada,,,,-35,,
+Brazil (Wet Regions),,20,,,,
+South America,-15,,,-20,,
+Europe (North),10,,,,,
+Europe (West),,,,-20,,28
+Europe (East),,,,-20,,
+Europe (Mediterranean),-40,,,,,
+Europe (General),,,-50,,,
+Russia,,,,-35,,
+China (East),-40,,,,,
+China (North),,,,,,3
+China (General),,,,-35,,
+India & South Asia,,,,,,-10
+Southeast Asia,,,,,,
+Central Asia,-40,,-50,,,
+Middle East,-40,,,,,
+Central Africa,-15,,,,,
+Southern Africa,-40,,,,,
+Sub-Saharan Africa,,,-50,,-40,-25
+Africa (General),,,,-20,,
